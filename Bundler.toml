@@ -1,0 +1,5 @@
+[apps."Icon Preview"]
+product = 'IconPreview'
+version = '0.1.0'
+minimum_macos_version = "14"
+icon = "Icons/AppIcon.png"
