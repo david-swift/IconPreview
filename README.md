@@ -32,7 +32,6 @@ You can use the [Template](Template.svg) as a starting point in [Inkscape](https
 
 ## Thanks
 
-- The [contributors](Contributors.md)
 - The [App Icon Preview app](https://gitlab.gnome.org/World/design/app-icon-preview) for GNOME that served as an inspiration
 - [This comment](https://stackoverflow.com/a/74496754/22579339) on StackOverflow
 - [SwiftLint](https://github.com/realm/SwiftLint) for checking whether code style conventions are violated

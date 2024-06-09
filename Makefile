@@ -1,5 +1,5 @@
 swiftlint:
-	@swiftlint --autocorrect
+	@swiftlint Sources
 
 run:
 	@mint run swift-bundler run
